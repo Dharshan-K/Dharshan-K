@@ -6,7 +6,7 @@
 - 📫 Can reach me on LinkedIn @Dharshan
 - 📫 Mail me on kdharshanprog@gmail.com  
 
-https://github-readme-streak-stats.herokuapp.com/?user=Dharshan-K
+[![GitHub Streak](https://streak-stats.demolab.com?user=Dharshan-K&theme=dark)](https://git.io/streak-stats)
 
 
 

@@ -6,6 +6,8 @@
 - 📫 Can reach me on LinkedIn @Dharshan
 - 📫 Mail me on kdharshanprog@gmail.com  
 
+![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Dharshan-K&theme=dark)](https://git.io/streak-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dharshan-K)](https://github.com/Dharshan-K/github-readme-stats)

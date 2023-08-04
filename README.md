@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Dharshan-K
-- 👀 I’m interested in Ethereum, Python and JavaScript
-- 🌱 I’m currently learning Ethereum Blockchain
-- 💞️ I’m looking to collaborate on web3 technologies. 
 
 Connect with on
 
